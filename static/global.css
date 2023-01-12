@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* font-family: 'Cormorant',
+serif;
+font-family: 'Square Peg',
+cursive; */
+html {
+    font-family: 'Cormorant',
+        serif;
+}
